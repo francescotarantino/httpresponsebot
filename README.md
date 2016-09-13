@@ -1,4 +1,4 @@
-# httpresponsebot
+# httpresponsebot [![Build Status](https://travis-ci.org/franci22/httpresponsebot.svg?branch=master)](https://travis-ci.org/franci22/httpresponsebot)
 A Telegram Bot for Get the HTTP status code and the redirects instantly for any website.
 
 Telegram Username: [@HTTPResponseBot](https://telegram.me/httpresponsebot)
