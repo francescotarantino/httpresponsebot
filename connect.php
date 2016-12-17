@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require("config.php");
-$databse = new mysqli($hostdb,$userdb,$passworddb,$databasedb);
+$myconn = new mysqli($hostdb,$userdb,$passworddb,$databasedb);
 ?>
