@@ -8,3 +8,7 @@ $hostdb = "localhost";
 $userdb = "user";
 $passworddb = "password";
 $databasedb = "my_database";
+$dbuser = new mysqli($hostdb, $userdb, $passworddb, $databasedb);
+
+$table = "httpresponsebot";
+?>
