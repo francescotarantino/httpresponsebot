@@ -1,6 +1,8 @@
 # httpresponsebot
 A Telegram Bot for Get the HTTP status code and the redirects instantly for any website.
 
+![HTTPResponseBot logo](https://raw.githubusercontent.com/franci22/httpresponsebot/master/Logo.png)
+
 Telegram Username: [@HTTPResponseBot](https://t.me/httpresponsebot)
 
 ## How to clone
